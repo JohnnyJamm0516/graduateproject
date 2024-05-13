@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cdba8f7554d6fe64e8a900b16f0bdeac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cards_SO: {fileID: 11400000, guid: 7bdc107e6b4b2624889ac7aa58332450, type: 2}
+  - image_SO: {fileID: 11400000, guid: eedd208e4b4e2f94cb0b845ef52dd552, type: 2}
+  - player: {instanceID: 0}
+  - Mana: {instanceID: 0}
+  - PlayerGrid: {instanceID: 0}
+  - enemyGrid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
